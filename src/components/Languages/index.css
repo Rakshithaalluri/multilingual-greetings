@@ -1,0 +1,23 @@
+.buttons {
+  border: 1px #db1c48 solid;
+  border-radius: 9px;
+  color: #db1c48;
+  font-family: 'roboto';
+  font-size: 10px;
+  font-weight: 400;
+  background-color: transparent;
+  outline: none;
+  height: 20px;
+  width: 50px;
+}
+
+.language-image {
+  height: 250px;
+  width: 250px;
+  margin-top: 30px;
+}
+
+.active-tab-btn {
+  background-color: #db1c48;
+  color: #ffffff;
+}
